@@ -14,16 +14,14 @@ Fakultas Ilmu Komputer dan Teknologi Informasi
 Universitas Sumatera Utara
 
 # Deskripsi Proyek
-Proyek ini merupakan sebuah program menginput data mahasiswa berupa nilai rata-rata yang berfungsi untuk mengetahui nilai rata-rata UTS dan UAS dan dapat digunakan oleh yang ingin menginput data mahasiswa mau dari kalangan dosen ataupun ingin menginput data siswa sekolah dari kalangan guru sekolah dasar ataupun menengah program ini dapat bermanfaat bagi para pengajar di Indonesia supaya memudahkan input data siswa dan menghitung nilai nilai siswa yang akan diinput dan membantu para pengajar untuk menghitung nilai-nilai dan data siswa program ini bertujuan untuk menulis data siswa dan menghitung nilai nilai siswa beserta rata rata nilai tersebut jadi tak perlu lagi menulis manual di atas kertas karena data yang diinput dari program ini sudah tersimpan di file dan memori laptop atau komputer
+Proyek ini merupakan sebuah program menginput data mahasiswa berupa nilai masing masing mahasiswa yang diinputkan yang berfungsi untuk mengetahui nilai mereka dan nilai di antara mereka yang memiliki nilai tertinggi dan dapat digunakan oleh yang ingin menginput data mahasiswa mau dari kalangan dosen ataupun ingin menginput data siswa sekolah dari kalangan guru sekolah dasar ataupun menengah program ini dapat bermanfaat bagi para pengajar di Indonesia supaya memudahkan input data siswa dan mengetahui  nilai siswa yang tertinggi dan membantu para pengajar untuk melihat nilai-nilai dan data siswa program ini bertujuan untuk menulis data siswa dan melihat nilai nilai siswa beserta nilai siapa di antara mereka yang tertinggi tersebut jadi tak perlu lagi menulis manual di atas kertas karena data yang diinput dari program ini sudah tersimpan di file dan memori laptop atau komputer
 
 # Alur Program
 - record
 - array
-- procedure hitung
-- procedure bubble sort
-- procedure pause
-- repeat - untill
+- procedure input data
+- procedure mahasiswa
 - pengulangan
-- with rec
+- if (deskripsi if-else)
 
 # vidio
